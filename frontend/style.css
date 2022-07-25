@@ -26,3 +26,11 @@ body {
   color: black;
   background-color: white;
 }
+.disco {
+  color: white;
+  background-color: black;
+}
+.disco:hover {
+  color: white;
+  background: url(asset/disco2.gif);
+}
